@@ -1,4 +1,4 @@
-![](E:\Code\Snow Boarder\cover.png)
+![](cover.png)
 
 # Snow Boarder
 
